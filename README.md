@@ -23,7 +23,7 @@ printf("Лунка идеальна для посадки семян? (1 - да,
 
 6) Конец<br>
 <i>Блок-схема</i><br>
-<img src="D\vs\algo3_1.png"/><br>
+<img src="algo3_1.png"/><br>
 
 2. <b>Реализация программы</b><br>
 #define _CRT_SECURE_NO_WARNINGS <br>
